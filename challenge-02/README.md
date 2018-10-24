@@ -24,7 +24,7 @@ Onde VALOR é o novo valor da variável.
 */
 function addvalor(){
   valornovo = 6
-  return "O valor da variável é ' + valornovo;
+  return 'O valor da variável é ' + valornovo;
 }
 
 // Invoque a função criada acima.
